@@ -1,17 +1,14 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
+### 22-06-2021
+This date i created this project and README file.
 
-### Project Title
-Replace the Project Title
+### 
+Programming for Data Science with Python Nanodegree Program
+The Project Title
 
 ### Description
-Describe what your project is about and what it does
+The Programming for Data Science with Python Nanodegree program offers you the opportunity to learn the most important programming languages used by data scientists today. Get your start into the fascinating field of data science and learn Python, SQL, terminal, and git with the help of experienced instructors
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
