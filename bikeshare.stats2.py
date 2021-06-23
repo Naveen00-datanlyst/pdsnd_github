@@ -1,9 +1,9 @@
 #importing the reqired modules 
 import time
-
 import numpy as np
 import pandas as pd
 
+# reading csv files
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
