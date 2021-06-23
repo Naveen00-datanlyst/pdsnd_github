@@ -1,5 +1,7 @@
 # project name :  bikeshare 
 #importing the reqired modules 
+
+# project discription : bike sharing systems for three major cities in the United States: Chicago, New York, and Washington.
 import time
 import numpy as np
 import pandas as pd
