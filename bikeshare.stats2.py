@@ -1,7 +1,8 @@
 # project name :  bikeshare 
-#importing the reqired modules 
-
+# project author: JASTHI NAVEEN
 # project discription : bike sharing systems for three major cities in the United States: Chicago, New York, and Washington.
+
+#importing the reqired modules 
 import time
 import numpy as np
 import pandas as pd
