@@ -17,6 +17,24 @@ The Body : In this project, we used Python to explore data related to bike shari
 
 ### author name : JASTHI NAVEEN
 
+## Commits
+### Note
+As directed in the review section, adding the commits relating to the changes made in the git master ,documentation and refactoring branches.
+This is beacause of not adding the few commits needs in the repo, as doing all the work over again instructed to add those commits in the documentation
+
+
+#### Branch name : documentation
+
+commit id : 9b9619cb4ef99a882df10ac353ce7277df477164 
+commit message : Updated the readme file with author name
+
+commit id : b20097295d2ff71188c5d4a4e1c8b76258ee701a 
+commit message : updated documentation (w)eith body and files used
+
+commit id : b8ab58586e3cad08ffdcd789b3e2242696f88b0f 
+commit message :updated the documentation with project & course details
+
+
 
 
 
