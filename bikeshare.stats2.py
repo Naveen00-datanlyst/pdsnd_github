@@ -189,7 +189,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-' * 40)
-
+    # To get the preview of the 5 reows of the trip data 
     while True:
         view_data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
         view_data = view_data.lower()
